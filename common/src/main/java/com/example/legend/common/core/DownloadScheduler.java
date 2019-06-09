@@ -17,8 +17,8 @@ import java.util.concurrent.atomic.AtomicBoolean;
 /**
  * @author Legend
  * @data by on 19-5-30.
- * @description 文件下载调度器
- *  主要是保证多线程写的时候socket通道 绑定到对应的Packet
+ * @description
+ *
  */
 public class DownloadScheduler {
 

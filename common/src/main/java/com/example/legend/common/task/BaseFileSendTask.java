@@ -39,7 +39,6 @@ public class BaseFileSendTask extends
         preExecute();
         try {
             OutputStream outputStream = socket.getOutputStream();
-            // 方便客户端进行绑定
             outputStream.write(seq);
             byte[] buffer = new byte[1024 * 1024];
             InputStream inputStream = socket.getInputStream();

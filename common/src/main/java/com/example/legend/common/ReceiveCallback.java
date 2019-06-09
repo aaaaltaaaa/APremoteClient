@@ -7,9 +7,6 @@ package com.example.legend.common;
  */
 public interface ReceiveCallback<T> {
 
-    /**
-     * 接收数据回调
-     * @param t 接收到的数据包
-     */
+
     void receiveMessage(T t);
 }
