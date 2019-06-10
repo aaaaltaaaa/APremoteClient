@@ -5,11 +5,7 @@ import java.net.Socket;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author Legend
- * @data by on 19-5-30.
- * @description
- */
+
 public class Binder {
 
     private Map<Integer, Socket> socketMap = new ConcurrentHashMap<>();

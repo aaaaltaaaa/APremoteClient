@@ -2,11 +2,7 @@ package com.example.legend.common.packet;
 
 import com.example.legend.common.Constants;
 
-/**
- * @author Legend
- * @data by on 19-5-28.
- * @description
- */
+
 public class FileRequestPacket extends AbstractPacket<String> {
 
     public FileRequestPacket(String path) {

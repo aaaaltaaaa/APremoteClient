@@ -5,11 +5,10 @@ import android.os.Bundle;
 
 import com.example.legend.APremote.R;
 
-public class AboutActivity extends AppCompatActivity {
+public class AboutActivity extends BaseControlActivity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_about);
+    public int getLayout() {
+        return R.layout.activity_about;
     }
 }

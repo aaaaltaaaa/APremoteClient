@@ -5,9 +5,7 @@ import android.widget.Button;
 import com.example.legend.common.Constants;
 import com.example.legend.APremote.R;
 
-/**
- * @author legend
- */
+
 public class PowerControlActivity extends BaseControlActivity {
 
     private Button mRestartBtn;

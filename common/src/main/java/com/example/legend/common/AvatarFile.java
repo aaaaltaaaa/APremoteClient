@@ -2,11 +2,7 @@ package com.example.legend.common;
 
 import java.io.Serializable;
 
-/**
- * @author Legend
- * @data by on 19-5-16.
- * @description
- */
+
 public class AvatarFile implements Serializable {
     private int icon;
     private String avatarHeading;

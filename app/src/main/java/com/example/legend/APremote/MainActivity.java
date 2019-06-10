@@ -14,9 +14,7 @@ import com.example.legend.common.core.TaskHandleCenter;
 import com.example.legend.common.task.MakeConnection;
 import com.example.legend.APremote.control.BaseControlActivity;
 
-/**
- * @author legend
- */
+
 public class MainActivity extends BaseControlActivity {
 
     private final String IP = "ip";

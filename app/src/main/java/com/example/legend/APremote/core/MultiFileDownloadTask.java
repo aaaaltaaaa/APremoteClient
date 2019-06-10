@@ -6,11 +6,7 @@ import android.app.ProgressDialog;
 import com.example.legend.common.packet.FileResponsePacket;
 import com.example.legend.common.task.BaseMultiThreadDownloadTask;
 
-/**
- * @author Legend
- * @data by on 19-5-29.
- * @description
- */
+
 public class MultiFileDownloadTask extends BaseMultiThreadDownloadTask {
 
     private Activity mContext;

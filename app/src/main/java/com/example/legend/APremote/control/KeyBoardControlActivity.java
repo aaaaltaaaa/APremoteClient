@@ -14,9 +14,7 @@ import android.widget.Toast;
 import com.example.legend.common.Constants;
 import com.example.legend.APremote.R;
 
-/**
- * @author legend
- */
+
 public class KeyBoardControlActivity extends BaseControlActivity {
 
     private EditText mInputEdt;

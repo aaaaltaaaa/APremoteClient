@@ -21,11 +21,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author Legend
- * @data by on 19-4-13.
- * @description
- */
+
 public class TaskHandleCenter {
 
     private static class Holder {

@@ -11,9 +11,7 @@ import android.widget.FrameLayout;
 import com.example.legend.common.Constants;
 import com.example.legend.APremote.R;
 
-/**
- * @author legend
- */
+
 @SuppressWarnings("AlibabaUndefineMagicConstant")
 public class MouseControlActivity extends BaseControlActivity {
 

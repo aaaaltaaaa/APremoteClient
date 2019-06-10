@@ -4,11 +4,7 @@ import android.os.Environment;
 
 import java.io.IOException;
 
-/**
- * @author Legend
- * @data by on 19-5-16.
- * @description
- */
+
 public class FileApi {
 
     public static String homeDirectoryPath = "";

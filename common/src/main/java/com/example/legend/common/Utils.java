@@ -5,11 +5,7 @@ import java.net.UnknownHostException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
-/**
- * @author Legend
- * @data by on 19-5-13.
- * @description
- */
+
 public class Utils {
 
     public static String getDate(long milliSeconds, String dateFormat) {

@@ -5,9 +5,5 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="light_blue">#13BFFF</color>
-    <color name="white">#FFFFFF</color>
-    <color name="yellow">#FFD700</color>
-    <color name="red">#FF0000</color>
-    <color name="fs">#FF34B3</color>
     <color name="black">#000000</color>
 </resources>

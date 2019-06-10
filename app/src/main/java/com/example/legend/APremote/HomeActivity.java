@@ -17,9 +17,7 @@ import com.example.legend.APremote.control.KeyBoardControlActivity;
 import com.example.legend.APremote.control.MouseControlActivity;
 import com.example.legend.APremote.control.PowerControlActivity;
 
-/**
- * @author legend
- */
+
 
 public class HomeActivity extends BaseControlActivity {
 

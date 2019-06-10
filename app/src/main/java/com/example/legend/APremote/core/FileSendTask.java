@@ -9,11 +9,7 @@ import com.example.legend.common.task.BaseFileSendTask;
 import java.io.IOException;
 import java.net.Socket;
 
-/**
- * @author Legend
- * @data by on 19-5-14.
- * @description
- */
+
 public class FileSendTask extends BaseFileSendTask {
 
     private Activity mContext;

@@ -5,11 +5,7 @@ import com.example.legend.common.Constants;
 
 import java.io.Serializable;
 
-/**
- * @author Legend
- * @data by on 19-5-12.
- * @description
- */
+
 public abstract class AbstractPacket<T> implements Serializable {
 
     public int seq;

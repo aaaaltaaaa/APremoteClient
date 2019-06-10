@@ -1,10 +1,6 @@
 package com.example.legend.common;
 
-/**
- * @author Legend
- * @data by on 19-4-13.
- * @description
- */
+
 public class Constants {
 
     public static String LOCAL_IP = "";

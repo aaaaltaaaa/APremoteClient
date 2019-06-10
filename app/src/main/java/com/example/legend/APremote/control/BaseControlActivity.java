@@ -35,11 +35,7 @@ import static com.example.legend.common.Constants.FILE_LIST_RESPONSE;
 import static com.example.legend.common.Constants.FILE_REQUEST;
 import static com.example.legend.common.Constants.FILE_RESPONSE;
 
-/**
- * @author Legend
- * @data by on 19-4-13.
- * @description
- */
+
 public abstract class BaseControlActivity extends AppCompatActivity implements ReceiveCallback<AbstractPacket> {
 
     Key volumeUpKey = new VolumeUpKey();

@@ -21,9 +21,7 @@ import java.util.List;
 
 import static com.example.legend.common.Constants.FOLDER;
 
-/**
- * @author legend
- */
+
 public class FileUploadActivity extends BaseControlActivity {
 
     private Button mBackBtn;

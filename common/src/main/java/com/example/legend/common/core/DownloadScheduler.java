@@ -14,12 +14,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.atomic.AtomicBoolean;
 
-/**
- * @author Legend
- * @data by on 19-5-30.
- * @description
- *
- */
+
 public class DownloadScheduler {
 
     private Binder binder = Binder.getInstance();
