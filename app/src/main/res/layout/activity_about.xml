@@ -96,9 +96,9 @@
             android:id="@android:id/text2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="https://github.com/aaaaltaaaa/APremoteClient/releases"
             android:textAppearance="?attr/textAppearanceListItemSmall"
-            android:textColor="?android:attr/textColorSecondary"
-            android:text="https://github.com/aaaaltaaaa/RemoteClient/releases"/>
+            android:textColor="?android:attr/textColorSecondary" />
 
 
     </LinearLayout>
@@ -130,9 +130,9 @@
             android:id="@android:id/text2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:text="https://github.com/aaaaltaaaa/APremoteClient"
             android:textAppearance="?attr/textAppearanceListItemSmall"
-            android:textColor="?android:attr/textColorSecondary"
-            android:text="https://github.com/aaaaltaaaa/RemoteClient"/>
+            android:textColor="?android:attr/textColorSecondary" />
 
 
     </LinearLayout>
@@ -166,7 +166,7 @@
             android:layout_height="wrap_content"
             android:textAppearance="?attr/textAppearanceListItemSmall"
             android:textColor="?android:attr/textColorSecondary"
-            android:text="https://github.com/aaaaltaaaa/RemoteServer/releases"/>
+            android:text="https://github.com/aaaaltaaaa/APremoteServer/releases"/>
 
 
     </LinearLayout>
